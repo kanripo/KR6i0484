@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:43.762394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 註四十二章經
 #+PROPERTY: CBETA_ID T39n1794
 #+PROPERTY: ID KR6i0484
@@ -13,7 +13,7 @@
 ¶
 No.1794[cf.No.784]¶
 
-佛教西來玄化應運略錄
+* 佛教西來玄化應運略錄
 :PROPERTIES:
 :head: 佛教西來玄化應運略錄
 :END:
@@ -53,7 +53,7 @@ No.1794[cf.No.784]¶
 ¶
 ¶
 
-四十二章經序
+* 四十二章經序
 :PROPERTIES:
 :head: 四十二章經序
 :END:
@@ -100,7 +100,7 @@ No.1794[cf.No.784]¶
 皇慶元年正月　　日上¶
 ¶
 
-註四十二章經序
+* 註四十二章經序
 :PROPERTIES:
 :head: 註四十二章經序
 :END:
@@ -756,7 +756,7 @@ No.1794[cf.No.784]¶
 ¶
 ¶
 
-題焚經臺詩
+* 題焚經臺詩
 :PROPERTIES:
 :head: 題焚經臺詩
 :END:
